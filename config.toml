@@ -1,6 +1,6 @@
 baseURL = "https://pres.bonnal.ch"
 languageCode = "en-us"
-title = "$ linux docs"
+title = "pres"
 theme = "reveal-hugo"
 
 [outputs]
@@ -13,7 +13,6 @@ theme = "reveal-hugo"
   notAlternative = true
 
 [params]
-  description = "Personal Linux configuration and command reference"
   revealTheme = "benou-theme"
 
 [markup]
